@@ -1,3 +1,3 @@
 # freeproxy-parser
 
-Parses freeproxy.cz and sortes results, easy
+Parses http://free-proxy.cz/ and sortes results, easy
